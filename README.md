@@ -4,8 +4,8 @@ If for some godforsaken reason you actually download the jar and run it, don't p
 
 Main Menu:
 
-![alt-text](https://imgur.com/gallery/kSP1FlD)
+![alt-text](https://i.imgur.com/iX3tmSn.png)
 
 Login Menu:
 
-![alt-text](https://imgur.com/gallery/Zakalvz)
+![alt-text](https://i.imgur.com/yzV8UOJ.png)
